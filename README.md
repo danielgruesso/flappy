@@ -1,5 +1,7 @@
 # flappy
 
+To run:
+
 `go run -tags=example main.go`
 
 ## Acknoledgments
